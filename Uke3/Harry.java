@@ -1,0 +1,3 @@
+interface Harry{
+	void draPaaHarryTur();
+}

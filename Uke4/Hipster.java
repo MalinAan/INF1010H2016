@@ -1,0 +1,3 @@
+interface Hipster{
+	void taKaffePaaLokka();
+}
